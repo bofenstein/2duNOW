@@ -1,4 +1,4 @@
-// pages/experts/index.tsx
+// pages/experts/pages.tsx
 import { useEffect, useState } from 'react'
 import { supabase } from '../../utils/supabaseClient'
 import {
